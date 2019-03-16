@@ -1,0 +1,24 @@
+C:\C# projekty\TopFilm\TopFilm\bin\Debug\TopFilm.exe
+C:\C# projekty\TopFilm\TopFilm\bin\Debug\TopFilm.pdb
+C:\C# projekty\TopFilm\TopFilm\obj\Debug\TopFilm.csprojResolveAssemblyReference.cache
+C:\C# projekty\TopFilm\TopFilm\obj\Debug\TopFilm.Properties.Resources.resources
+C:\C# projekty\TopFilm\TopFilm\obj\Debug\TopFilm.csproj.GenerateResource.Cache
+C:\C# projekty\TopFilm\TopFilm\obj\Debug\TopFilm.csproj.CoreCompileInputs.cache
+C:\C# projekty\TopFilm\TopFilm\obj\Debug\TopFilm.exe
+C:\C# projekty\TopFilm\TopFilm\obj\Debug\TopFilm.pdb
+C:\C# projekty\TopFilm\TopFilm\obj\Debug\TopFilm.TopFilm.resources
+C:\C# projekty\TopFilm\TopFilm\obj\Debug\TopFilm.FormLog.resources
+C:\C# projekty\TopFilm\TopFilm\obj\Debug\TopFilm.FormRating.resources
+C:\C# projekty\TopFilm\TopFilm\obj\Debug\TopFilm.FormRegister.resources
+C:\Kredek\krystian_wolszczak\lab3\TopFilm\TopFilm\bin\Debug\TopFilm.exe
+C:\Kredek\krystian_wolszczak\lab3\TopFilm\TopFilm\bin\Debug\TopFilm.pdb
+C:\Kredek\krystian_wolszczak\lab3\TopFilm\TopFilm\obj\Debug\TopFilm.csprojResolveAssemblyReference.cache
+C:\Kredek\krystian_wolszczak\lab3\TopFilm\TopFilm\obj\Debug\TopFilm.TopFilm.resources
+C:\Kredek\krystian_wolszczak\lab3\TopFilm\TopFilm\obj\Debug\TopFilm.FormLog.resources
+C:\Kredek\krystian_wolszczak\lab3\TopFilm\TopFilm\obj\Debug\TopFilm.Properties.Resources.resources
+C:\Kredek\krystian_wolszczak\lab3\TopFilm\TopFilm\obj\Debug\TopFilm.FormRating.resources
+C:\Kredek\krystian_wolszczak\lab3\TopFilm\TopFilm\obj\Debug\TopFilm.FormRegister.resources
+C:\Kredek\krystian_wolszczak\lab3\TopFilm\TopFilm\obj\Debug\TopFilm.csproj.GenerateResource.Cache
+C:\Kredek\krystian_wolszczak\lab3\TopFilm\TopFilm\obj\Debug\TopFilm.csproj.CoreCompileInputs.cache
+C:\Kredek\krystian_wolszczak\lab3\TopFilm\TopFilm\obj\Debug\TopFilm.exe
+C:\Kredek\krystian_wolszczak\lab3\TopFilm\TopFilm\obj\Debug\TopFilm.pdb
